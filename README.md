@@ -19,3 +19,5 @@ This React application demonstrates a simple sign-up form with validation using 
 - **CSS**: Basic styling for the form and layout.
 
 ## Project Output
+![WhatsApp Image 2024-08-08 at 16 21 01_3b552235](https://github.com/user-attachments/assets/fa052303-315c-42e4-8e49-6b004d8c3776)
+
